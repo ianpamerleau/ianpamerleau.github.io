@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Documentation"
+  - title: "Research"
     url: /documentation
-  - title: "Netlify CMS"
+  - title: "CV"
     url: /netlify-cms-jekyll-setup
-  - title: "Blog"
+  - title: "Media?"
     url: /blog        
   - title: "Submenu"
     url: /
