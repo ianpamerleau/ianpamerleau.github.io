@@ -1,11 +1,11 @@
 ---
 layout: home
 comments: false
-seotitle: SparrowX - Free Minimal SEO-friendly Jekyll Theme (Netlify CMS)
-description: Built on top of Sparro by lingxz, SparrowX is a clean and minimal free Jekyll theme by Mighil. This is a ready-made Jekyll theme for Netlify CMS. 
+seotitle: 
+description:  
 ---
 now  cv 
-
+line 4 & 5 everything after : should go
 
 Hi, I’m [@sparrow's](https://github.com/lingxz/sparrow) sister and my [mainainter](https://migftw.com) has made me compatible with NetlifyCMS. I am particularly great for a SEO-focused writer’s blog or personal webpage. I'm programmed to render your system font-stack and my performance grade is 94 on tools.pingdom.com.
 
