@@ -1,4 +1,4 @@
- ---
+---
 layout: home
 comments: false
 seotitle: SparrowX - Free Minimal SEO-friendly Jekyll Theme (Netlify CMS)
