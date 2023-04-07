@@ -15,7 +15,7 @@ future: true # if the post's date is in the future
 author:
   name                   : "Ian Pamerleau" # appears in the footer and atom feed
 
-comments                 : true # set it to false to disable comments
+comments                 : false # set it to false to disable comments
 disqus:
   shortname              : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
@@ -26,12 +26,12 @@ og_image                 : "/assets/images/mighil.png" # Open Graph/Twitter defa
 
 # Social sharing
 twitter:
-  username               : verfasor # optional, for social sharing
+  username               : ianpamerleau # optional, for social sharing
 
 # Analytics
 analytics:
   google:
-    tracking_id          : UA-128372009-1 # add your google tracking id here
+    tracking_id          :  # add your google tracking id here
 
 # Reading Files
 include:
