@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Research"
-    url: /documentation
+    url: /research
   - title: "CV"
-    url: /netlify-cms-jekyll-setup
-  - title: "Media?"
-    url: /blog        
-  - title: "Submenu"
-    url: /
-    children: 
-      - title: "Sitemap"
-        url: /sitemap.xml
-      - title: "RSS"
-        url: /feed.xml   
+    url: /cv
+  - title: "Media"
+    url: /media        
+  # - title: "Submenu"
+   # url: /
+    # children: 
+     # - title: "Sitemap"
+      #  url: /sitemap.xml
+      # - title: "RSS"
+        # url: /feed.xml   
