@@ -5,7 +5,7 @@ seotitle:
 description: 
 ---
 
-My research is in icy geophysics. Current, I focus is on Ceres and Callisto (details soon to come).
+My research is in icy geophysics. Currently, I focus is on Ceres and Callisto (details soon to come).
 
 
 
