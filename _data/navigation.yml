@@ -4,8 +4,8 @@ main:
     url: /research
   - title: "CV"
     url: /cv
-  - title: "Media"
-    url: /media        
+  #- title: "Media"
+   # url: /media        
   # - title: "Submenu"
    # url: /
     # children: 
