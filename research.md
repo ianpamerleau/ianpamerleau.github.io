@@ -4,7 +4,6 @@ comments: false
 seotitle: 
 description: 
 ---
-
 I study icy geophysics, primarily through modeling. I aim to better understand the interior composition and structure of icy bodies.
 
 ## Ceres
