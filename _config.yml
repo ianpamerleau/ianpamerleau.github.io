@@ -2,11 +2,12 @@
 encoding                 : "utf-8"
 locale                   : "en"
 title                    : "Ian Pamerleau"
-description              : "Planetary Science PhD Student at Purdue University  ipamerleau (at) purdue (dot) edu"
+description              : "Planetary Science PhD Student at Purdue University"
+email                    : "ipamerleau (at) purdue (dot) edu"
 favicon                  : "/images/favicon.ico"
 avatar                   : "/images/website_profile_pic.jpg"
-url                      : "https://ianpamerleau.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+url                      : "https://conlonnovak.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/ian" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 publish_mode: editorial_workflow # required for Netlify
 future: true # if the post's date is in the future
