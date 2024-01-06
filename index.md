@@ -9,7 +9,7 @@ I am a third year PhD student in the Earth, Atmospheric, and Planetary Science D
 
 I received my B.S. in Geology and Mathematics with a minor in physics from the University of Pittsburgh in 2021. In my courses, I discovered my love of the physics behind the evolution of surface features like waves and rivers. I conducted my first research project on conjugate wave flow analysis, but my larger project at Pitt was helping to develop an automated floodplain delineation algorithm. Through these projects, I learned the basics of grant writing, coding, and how to conduct research. 
 
-In my free time, I like to fence (like with swords)! I also play the saxophone and guitar. 
+In my free time, I fence (like with swords)! I also play the saxophone and guitar. 
 
 
 
