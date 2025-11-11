@@ -2,10 +2,10 @@
 encoding                 : "utf-8"
 locale                   : "en"
 title                    : "Ian Pamerleau"
-description              : "Planetary Science PhD Student at Purdue University"
+description              : "Planetary Science PhD Candidate at Purdue University"
 email                    : "ipamerle (at) purdue (dot) edu"
 favicon                  : "/images/favicon.ico"
-avatar                   : "/images/website_profile_pic.jpg"
+avatar                   : "/images/MPS_headshot.jpg"
 url                      : "https://ianpamerleau.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
