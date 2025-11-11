@@ -24,5 +24,5 @@ Callisto is thought to be the only Galilean moon that is not fully differentiate
 
 As an undergraduate researcher, I helped to develop an automated floodplain mapping algorithm. Previously established algorithms utilized the topography of the entire watershed to determine thresholds that would be used to mark areas as floodplain or not floodplain. The algorithm I worked on utilized local topography to mark regions as part of the floodplain or not. The algorithm, while fully automated, can be tuned by different users to map different river flat features (such as terraces). 
 
-
+![River Flats Map](/images/Fig 2h river flats.png)
 
