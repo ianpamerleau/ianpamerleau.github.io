@@ -4,8 +4,8 @@ main:
     url: /research
   - title: "CV"
     url: /Ian_Pamerleau_CV.pdf
-  #- title: "Media"
-   # url: /media        
+  - title: "Media"
+    url: /media        
   # - title: "Submenu"
    # url: /
     # children: 
