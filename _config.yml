@@ -5,7 +5,7 @@ title                    : "Ian Pamerleau"
 description              : "Planetary Science PhD Candidate at Purdue University"
 email                    : "ipamerle (at) purdue (dot) edu"
 favicon                  : "/images/favicon.ico"
-avatar                   : "/images/MPS_headshot.jpg"
+avatar                   : [<img src="/images/Earth_1x1.png">](https://linktr.ee/artbycharlie13)
 url                      : "https://ianpamerleau.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
@@ -14,7 +14,7 @@ future: true # if the post's date is in the future
 
 # Site Author
 author:
-  name                   : "Ian Pamerleau" # appears in the footer and atom feed
+  name                   : "Ian Pamerleau | Original painting of Earth by [Art by Charlie](https://linktr.ee/artbycharlie13)" # appears in the footer and atom feed
 
 comments                 : false # set it to false to disable comments
 disqus:
