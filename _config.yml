@@ -5,7 +5,7 @@ title                    : "Ian Fauver Pamerleau"
 description              : "Postdoctoral Researcher at Cornell University"
 email                    : "ianfpamerleau (at) cornell (dot) edu"
 favicon                  : "/images/favicon.ico"
-avatar                   : "[![Earth]/images/Earth_1x1.png](https://linktr.ee/artbycharlie13)"
+avatar                   : "/images/Earth_1x1.png"
 url                      : "https://ianpamerleau.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
