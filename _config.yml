@@ -1,11 +1,11 @@
 # Site Settings
 encoding                 : "utf-8"
 locale                   : "en"
-title                    : "Ian Pamerleau"
-description              : "Planetary Science PhD Candidate at Purdue University"
-email                    : "ipamerle (at) purdue (dot) edu"
+title                    : "Ian Fauver Pamerleau"
+description              : "Postdoctoral Researcher at Cornell University"
+email                    : "ianfpamerleau (at) cornell (dot) edu"
 favicon                  : "/images/favicon.ico"
-avatar                   : "/images/MPS_headshot.jpg"
+avatar                   : "[![Earth]/images/Earth_1x1.png](https://linktr.ee/artbycharlie13)"
 url                      : "https://ianpamerleau.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
