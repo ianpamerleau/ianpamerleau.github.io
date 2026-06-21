@@ -10,7 +10,7 @@ I earned my PhD at Purdue University with Professor Michael Sori studying planet
 
 ![Headshot](/images/MPS_headshot.jpg)
 
-In my free time, I fence (like with swords), play the saxophone and guitar, and run D&D games. The picture of Earth in the website's header was painted by my friend [Charlie, who does amazing pointalism art.](https://linktr.ee/artbycharlie13)
+In my free time, I fence (like with swords), play the saxophone and guitar, and run D&D games. The picture of Earth in the website's header was painted by my friend [Charlie, who does amazing pointillism art!](https://linktr.ee/artbycharlie13)
 
 
 
